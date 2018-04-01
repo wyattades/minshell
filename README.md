@@ -3,7 +3,7 @@ A minimalist implementation of a shell (command line interpreter)
 
 ## Installation
 
-Run `$ make` to create the `minshell` binary
+Run `$ make` to create the `minshell` binary  
 Run `$ ./minshell` to run the shell
 
 ## Usage
@@ -15,7 +15,7 @@ The only special characters supported are:
 - `>` - stdout file redirect
 - `|` - piping (multiple commands being piped is supported)
 
-Any combination of the above special characters is supported (compatible with BASH), and all other special characters are ignored.
+Any combination of the above special characters is supported (as compatible with BASH), and all other special characters are ignored.
 
 ## Concepts
 
